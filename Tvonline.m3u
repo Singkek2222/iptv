@@ -1,1 +1,318 @@
 
+EXTM3U
+#EXTINF:-1 group-title="TV LOKAL",ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",ANTARA TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="TV LOKAL",ANTV Backup
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 group-title="TV LOKAL",ANTV Backup 2
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="TV LOKAL",BERITA SATU Backup
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
+#EXTINF:-1 group-title="TV LOKAL",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="TV LOKAL",BERITA SATU ENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="TV LOKAL",BIOSKOP INDONESIA Backup
+https://Lnk.ec/bioskopIndo?shareext.ts
+#EXTINF:-1 group-title="TV LOKAL",Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Citra Drama
+http://check.ruangwaktu.xyz/prem/cdrama.m3u8
+#EXTINF:-1 group-title="TV LOKAL",CITRA BIOSKOP
+http://check.ruangwaktu.xyz/prem/cbioskop.m3u8
+#EXTINF:-1 group-title="TV LOKAL",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV LOKAL",CNN Backup
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=cnnindonesia&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV LOKAL",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="TV LOKAL",CNBC INDONESIA Backup
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
+#EXTINF:-1 group-title="TV LOKAL",CNBC INDONESIA Backup 2
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=cnbcasia&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV LOKAL",DAAI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",DAAI TV Backup
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Elshinta TV
+http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Elshinta TV Backup
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",FLIK
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=flik&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV LOKAL",FLIK Backup
+https://Lnk.ec/FLIK?shareext.ts
+#EXTINF:-1 group-title="TV LOKAL",I-News Backup
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf16a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",Indosiar Backup
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",Indosiar Backup 2
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=indosiar&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV LOKAL",Indosiar Backup 3
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Jak TV
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+#EXTINF:-1 group-title="TV LOKAL",KOMPAS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="TV LOKAL",KOMPAS TV Backup
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",KOMPAS TV Backup 2
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+#EXTINF:-1 group-title="TV LOKAL",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Metro TV Backup
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+#EXTINF:-1 group-title="TV LOKAL",Metro TV Backup 2
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",MNCTV Back Up
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+#EXTINF:-1 group-title="TV LOKAL",MNCTV Back Up 2
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d6a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",MUSICA
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",MYTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",Net TV Backup
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Nusantara TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Nusantara TV Backup
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e446a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",OSHOP
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+#EXTINF:-1 group-title="TV LOKAL",OSHOP Backup
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb0896a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1 group-title="TV LOKAL",RCTI 2
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#EXTINF:-1 group-title="TV LOKAL",RTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="TV LOKAL",RTV Backup
+http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",SEATODAY
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=89db09d856d45d361982edc10ce738a26a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",SCTV Backup 2
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 group-title="TV LOKAL",SCTV Backup 3
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sctv&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV LOKAL",SCTV Backup 4
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Sinema Indonesia
+http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
+#EXTINF:-1 group-title="TV LOKAL",TATV
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1 group-title="TV LOKAL",THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Trans7 Backup
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="TV LOKAL",Trans7 Backup 2
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",Trans7 Backup 3
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",TransTV Backup
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 group-title="TV LOKAL",TransTV Backup 2
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL",TransTV Backup 3
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1 group-title="TV LOKAL",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="TV LOKAL",TV One Backup
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="TV SPORT",TVRI
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",AXN Backup
+https://Lnk.ec/AXN?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",AXN Backup 2
+http://139.99.71.104:8888/live/blink6/yOttch0ZLF/9.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",CCM
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",CELESTIAL
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=celestialmovie&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",CELESTIAL BACKUP 3
+https://Lnk.ec/celestialMovie?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",CINEMA WORLD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",#EXTINF:-1 group-title="TV ENTERTAIN" CINEMAX
+http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/087
+#EXTINF:-1 group-title="TV ENTERTAIN",#EXTINF:-1 group-title="TV ENTERTAIN" CINEMAX Backup
+https://Lnk.ec/cinemaxID?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",CRIME INVEST
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=crimeinvestigation&gumisasakTV=default&sync=
+#EXTINF:-1 group-title="TV ENTERTAIN",EGG
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",Failarmy
+https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",FASHION TV
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=fashiontv&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",GALAXY
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=galaxy&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",GEM TV Backup
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",HBO Backup
+https://dik.si/hbosyarman
+#EXTINF:-1 group-title="TV ENTERTAIN",HBO Family
+http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/061
+#EXTINF:-1 group-title="TV ENTERTAIN",HBO Family Backup
+https://dik.si/hbofamsyarman
+#EXTINF:-1 group-title="TV ENTERTAIN",HBO Family Backup 2
+https://Lnk.ec/hboFamID?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",HBO Hits Backup
+https://dik.si/hbohitsyarman
+#EXTINF:-1 group-title="TV ENTERTAIN",HBO Hits Backup 2
+https://Lnk.ec/hboHitsID?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",HBO Signature Backup 2
+https://Lnk.ec/hboSigID?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",HGTV
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=hgtv&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",K+
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kplus&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",K+ Backup
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",KBS
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=kbsworld&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",KIX Backup
+http://rr1.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",LINGUA CHANNEL
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=lingua&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",LOCAL MOVIE 90'S
+https://goldenlivektv.com/Live_TV/Channel_Local-now-movie_of-the-90's.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MTV Spankin New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MTV Yo
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MY CINEMA
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=mycinema&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",MY CINEMA Backup
+http://playlist.urfan.web.id/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MY CINEMA ASIA
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=mycinemaasia&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",MY CINEMA EUROPE
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",MY FAMILY CHANNEL
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=myfamily&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",ONE
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=sone&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",ONE Backup
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",ONE Backup 2
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",PARAMOUNT
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=paramount&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",RockExtreme
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=blueantextreme&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",RockExtreme Backup
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",Rock Entertain
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",Rock Entertain Backup
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",TECH STORM
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=techstorm&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",TLC
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=tlc&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV ENTERTAIN",THRILL
+http://rr2.dens.tv/s/s34/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",THRILL Backup
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",TVN Backup
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",TVN MOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="TV ENTERTAIN",WAKU WAKU
+https://Lnk.ec/waku2?shareext.ts
+#EXTINF:-1 group-title="TV ENTERTAIN",WARNER
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=warner&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV EDUKASI",DISCOVERY CHANNEL
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV EDUKASI",DISCOVERY CHANNEL Backup
+https://Lnk.ec/FOXHD?shareext.ts
+#EXTINF:-1 group-title="TV EDUKASI",DISCOVERY CHANNEL Backup 2
+http://139.99.71.104:8888/live/blink8/kurBPQgPf6/95.ts
+#EXTINF:-1 group-title="TV EDUKASI",HISTORY CHANNEL
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV EDUKASI",HISTORY CHANNEL Backup
+http://139.99.71.104:8888/live/blink7/38Jz5ErUNG/718.ts
+#EXTINF:-1 group-title="TV EDUKASI",NATIONAL GEO
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeo&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV EDUKASI",NATIONAL GEO Backup
+http://139.99.71.104:8888/live/blink5/W6MIckThGt/96.ts
+#EXTINF:-1 group-title="TV Anak",ANIMAX
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="TV Anak",ANIPLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="TV Anak",Dreamwork
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=dreamworks&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV Anak",MyKidz
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="TV SPORT",ASTRO ARENA
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
+#EXTINF:-1 group-title="TV SPORT",Astro SuperSport HD
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6708
+#EXTINF:-1 group-title="TV SPORT",Astro SuperSport 2 HD
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6710
+#EXTINF:-1 group-title="TV SPORT",Astro SuperSport 3 HD
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6711
+#EXTINF:-1 group-title="TV SPORT",Astro SuperSport 4 HD
+http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
+#EXTINF:-1 group-title="TV SPORT",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="TV SPORT",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="TV SPORT",ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="TV SPORT",BEIN SPORT 2
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bein2&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV SPORT",CHAMPION 1 HD
+http://check.ruangwaktu.xyz/prem/c1.m3u8
+#EXTINF:-1 group-title="TV SPORT",CANAL 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="TV SPORT",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV SPORT",DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV SPORT",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV SPORT",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TV SPORT",EDGE SPORT
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 group-title="TV SPORT",FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="TV SPORT",FIGHT Sport
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+#EXTINF:-1 group-title="TV SPORT",FOX Sports HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="TV SPORT",GOLF
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1 group-title="TV SPORT",GOLF Backup
+http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
+#EXTINF:-1 group-title="TV SPORT",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="TV SPORT",Motor Vision
+http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="TV SPORT",NBA
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nba&gumisasakTV=default&sync=0
+#EXTINF:-1 group-title="TV SPORT",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?x
